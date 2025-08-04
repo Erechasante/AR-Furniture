@@ -7,8 +7,8 @@ export default function LoadingScreen() {
       <div className="flex flex-col items-center justify-center flex-1 min-h-0">
         <div className="mb-8 sm:mb-12">
           <Image
-            src="/danubahome.svg"
-            alt="Danube Home Logo"
+            src="/Norman logo.svg"
+            alt="Norman logo"
             className="w-50 sm:w-40 md:w-48 h-auto"
             width={200}
             height={80}
@@ -39,3 +39,4 @@ export default function LoadingScreen() {
     </div>
   );
 }
+
